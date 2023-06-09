@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\bin\Debug\net7.0\GeometryHelper.exe
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\bin\Debug\net7.0\GeometryHelper.deps.json
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\bin\Debug\net7.0\GeometryHelper.runtimeconfig.json
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\bin\Debug\net7.0\GeometryHelper.dll
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\bin\Debug\net7.0\GeometryHelper.pdb
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\obj\Debug\net7.0\GeometryHelper.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\obj\Debug\net7.0\GeometryHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\obj\Debug\net7.0\GeometryHelper.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\obj\Debug\net7.0\GeometryHelper.AssemblyInfo.cs
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\obj\Debug\net7.0\GeometryHelper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\obj\Debug\net7.0\GeometryHelper.dll
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\obj\Debug\net7.0\refint\GeometryHelper.dll
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\obj\Debug\net7.0\GeometryHelper.pdb
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\obj\Debug\net7.0\GeometryHelper.genruntimeconfig.cache
+C:\Users\User\source\repos\GeometryHelper\GeometryHelper\obj\Debug\net7.0\ref\GeometryHelper.dll
